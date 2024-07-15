@@ -1,6 +1,6 @@
 import pgzrun
 import random
-
+# Set Height and Width
 WIDTH = 400
 HEIGHT = 600
 
